@@ -3,7 +3,7 @@ NYC Citi Bike - Tableau
 
 ## Overview of the analysis
 
-My friend Kate and I took a trip to NYC last summer. To our suprise, one of our favorite parts was Citi Bike because it allowed us to get around the city easily and interact with the others. The brainstorming began to see if we could start a similiar bikeshare business in Des Moines, Iowa. We analyzed City Bike data and created effective visualizations to present to investors who may proved seed funding. 
+Last summer my friend Kate and I took a trip to NYC. To our surprise, one of our favorite parts was Citi Bike because it allowed us to get around the city easily and interact with the others. The idea was born to start a similiar bikeshare business in Des Moines, Iowa, and so the brainstorming began. We analyzed City Bike data and created effective visualizations to present to potential investors. 
 
 ## Results
 
@@ -17,7 +17,7 @@ Checkout Times by Gender
 
 Trips by Weekday per Hour
 ![TripsbyWeekdayperHour](https://user-images.githubusercontent.com/115032384/217100871-2eb529b2-186e-4e28-9a08-2fa00c179460.png)
-Peek hours for Monday - Friday are 5am-10am and 4pm-8pm. 
+Peek hours for Monday-Friday are 5am-10am and 4pm-8pm. 
 Peek hours for Saturday and Sunday are 11am- 6pm. 
 
 Trips by Gender (Weekday per Hour)
@@ -29,3 +29,6 @@ User Trips by Gender by Weekday
 The majority of users Monday - Sunday are male subscribers. 
 
 ## Summary 
+
+The peek hours for bike sharing during the work week are in the morning and at night, users likely going to and coming from work (5am-10am & 4pm-8pm). The peek hours for the weekends are during the afternoon (4pm-8pm). 
+The majority of users all throughout the week are male subscribers and their busiest days are Monday, Tuesday, Thursday and Friday. The female subscribers genders busiest days are Thurday, Friday and Saturday. All Customer genders busiest days are Friday, Saturday and Sunday. 
