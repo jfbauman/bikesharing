@@ -58,7 +58,7 @@ The pattern for trips comparing gender are similar for males and females around 
 
 Male subscribers are the majority of users all throughout the week and their busiest days are Monday, Tuesday, Thursday and Fridays. The female subscribers genders busiest days are Thurday, Friday and Saturday. All non-subscribing customer genders (male, female & unknown) busiest days are Friday, Saturday and Sunday. 
 
-Based on the August peak hours, the best time to perform maintenance is around 2-5am. The busiest times are 8-9am and 5-7pm. 
+Based on the August peak hours, the best time to perform maintenance is around 2am-5am. The busiest times are 8am-9am and 5pm-7pm. 
 
 The top staring and ending locations appear to be very similar. 
 
