@@ -14,7 +14,7 @@ There are over 140,000 bikes being checked out.
 
 ![CheckoutTimesbyGender](https://user-images.githubusercontent.com/115032384/217100799-2cf527d7-cc39-48b9-8cdd-9def74de2d43.png)
 
-Separting checkout times by gender shows that male users account for most of the bikes being checked out, followed by female users and then unknown users with the least amount of bikes checked out
+Separting checkout times by gender shows that male users account for most of the bikes being checked out, followed by female users and then unknown users with the least amount of bikes checked out.
 
 
 ![TripsbyWeekdayperHour](https://user-images.githubusercontent.com/115032384/217100871-2eb529b2-186e-4e28-9a08-2fa00c179460.png)
